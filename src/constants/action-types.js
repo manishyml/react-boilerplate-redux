@@ -1,0 +1,8 @@
+const ACTIONS = {
+  SEARCH: {
+    LOAD_VENUE_LIST: "LOAD_VENUE_LIST",
+    GET_CATEGORIES: "GET_CATEGORIES"
+  }
+};
+
+export default ACTIONS;
